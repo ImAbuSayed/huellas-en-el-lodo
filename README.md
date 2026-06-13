@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/huellas-en-el-lodo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Huellas en el lodo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-en-el-lodo/) |
+| **Get License** | [License this song: Huellas en el lodo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-en-el-lodo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, dejamos huellas en el lodo
+> Cuando bailamos nos olvidamos de todo
+> Un flow de calle, tú eres mi tesoro
+> Me tienes adicto, tú vales más que el oro
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
