@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Huellas en el lodo
+
+This log tracks the cryptographic history and versioning for the song **Huellas en el lodo** (huellas-en-el-lodo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:34:16.651195 | `v1` | `2be8dd95372498243c376f11d4a1473dfc5653d256d82fed819231d7f401a9b5` | `e9440586365a4821e440d2bc49d159b2e0653be3bdfe74e0ce394c21c2b62fbf` | `2026-06-14_huellas-en-el-lodo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/huellas-en-el-lodo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Huellas en el lodo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-en-el-lodo/) |
+| **Get License** | [Secure Licensing Rights for Huellas en el lodo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/huellas-en-el-lodo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2be8dd95372498243c376f11d4a1473dfc5653d256d82fed819231d7f401a9b5` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
